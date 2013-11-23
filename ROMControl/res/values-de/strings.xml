@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">ROM Control</string>
     <string name="user_interface">Benutzeroberfläche</string>
-    <string name="toggles_layout">Schalter</string>
+    <string name="toggles_layout">Toggles</string>
     <string name="general_ui">Allgemein</string>
     <string name="clock">Uhr</string>
     <string name="battery">Batterie</string>
@@ -13,7 +13,7 @@
     <string name="weather">Wetter</string>
     <string name="tools">Tools</string>
     <string name="header_summary_clock">Uhr Position, AM/PM anzeigen, Farbe</string>
-    <string name="header_summary_toggles">Schalter anpassen</string>
+    <string name="header_summary_toggles">Toggles anpassen</string>
     <string name="header_summary_general_ui">Boot Animation, Fehlerberichte, Rotation, Eingabemethoden etc.</string>
     <string name="header_summary_battery">Batterie-Leiste, 1 % Batterie Mod etc.</string>
     <string name="header_summary_signal">Empfangs Text (dBm)</string>
@@ -39,10 +39,9 @@
     <string name="use_custom_app_summary">Benutzerdefinierte App statt Dialog mit den zuletzt verwendeten Apps verwenden.</string>
     <string name="select_custom_app_title">Benutzerdefinierte App wählen</string>
     <string name="group_applications">Apps</string>
-    <string name="devs">Entwickler</string>
+    <string name="devs">Entwickler Hackdroid</string>
     <string name="aokp_website_title">AOKP Webseite</string>
     <string name="aokp_irc_title">Tritt unserem IRC-Channel bei</string>
-    <string name="about_aokp">Über AOKP</string>
     <string name="about_aokp_summary">@null</string>
     <string name="enable_volume_options">Aktiviere Volumen Optionen</string>
     <string name="disable_bootanimation_title">Boot-Animation deaktivieren</string>
@@ -68,7 +67,6 @@
     <string name="open_market_summary">Zurück drücken um zum Assistenten zurückzukehren</string>
     <string name="custom_density_title">5. Die Pixeldichte auf einen eigenen Wert ändern!</string>
     <string name="custom_density_summary">Sollten Kompatibilitätsprobleme mit Google Play Store auftreten, wiederhole die hier genannten Schritte.</string>
-    <string name="toggle_style_title">Aussehen der Schalter</string>
     <string name="toggle_style_summary">Die Schalter entweder mit Symbolen oder Text anzeigen.</string>
     <string name="toggles_display_close">Schließen</string>
     <string name="toggles_order_title">Reihenfolge der Schalter</string>
@@ -419,4 +417,17 @@ Aktuell: %s"</string>
     <string name="color_green_title">Grün</string>
     <string name="color_blue_title">Blau</string>
     <string name="reset_defaults">Auf Standard zurücksetzten</string>
+    <string name="toggle_style_title">Toggle Stil</string>
+    <string name="toggles_style_title">Toggle Stil</string>
+    <string name="toggles_style_summary">Fliesen, traditionell, oder scrollbar</string>
+    <string name="add_toggles">Toggles ändern</string>
+    <string name="toggle_airplane_mode">Flugmodus</string>
+    <string name="toggle_fcharge">Schnell Laden</string>
+    <string name="toggle_favorite_contact">Bevorzugter Kontakt</string>
+    <string name="toggle_settings">Einstellungen</string>
+    <string name="toggle_clock">Uhr</string>
+    <string name="toggle_battery">Akkuanzeige</string>
+    <string name="toggle_brightness">Helligkeit</string>
+    <string name="ota_center">OTA Center</string>
+    <string name="about_aokp">Über Hackdroid</string>    
 </resources>
