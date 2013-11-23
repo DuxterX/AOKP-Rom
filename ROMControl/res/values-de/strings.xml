@@ -39,7 +39,7 @@
     <string name="use_custom_app_summary">Benutzerdefinierte App statt Dialog mit den zuletzt verwendeten Apps verwenden.</string>
     <string name="select_custom_app_title">Benutzerdefinierte App wählen</string>
     <string name="group_applications">Apps</string>
-    <string name="devs">Entwickler Hackdroid</string>
+    <string name="devs">Entwickler</string>
     <string name="aokp_website_title">AOKP Webseite</string>
     <string name="aokp_irc_title">Tritt unserem IRC-Channel bei</string>
     <string name="about_aokp_summary">@null</string>
@@ -429,5 +429,5 @@ Aktuell: %s"</string>
     <string name="toggle_battery">Akkuanzeige</string>
     <string name="toggle_brightness">Helligkeit</string>
     <string name="ota_center">OTA Center</string>
-    <string name="about_aokp">Über Hackdroid</string>    
+    <string name="about_aokp">Über Duxter</string>    
 </resources>
