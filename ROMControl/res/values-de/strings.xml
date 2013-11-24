@@ -429,5 +429,6 @@ Aktuell: %s"</string>
     <string name="toggle_battery">Akkuanzeige</string>
     <string name="toggle_brightness">Helligkeit</string>
     <string name="ota_center">OTA Center</string>
+    <string name="hacker_rom_team">Duxter AOKP</string>
     <string name="about_aokp">Über Duxter</string>    
 </resources>

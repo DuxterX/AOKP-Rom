@@ -28,4 +28,8 @@
     <header android:icon="@drawable/ic_ota" android:title="@string/ota_center">
     <intent android:targetPackage="com.acquariusoft.UpdateMe" android:action="android.intent.action.MAIN" android:targetClass="com.acquariusoft.UpdateMe.UpdateMeActivity" />
     </header>
+    <header android:title="Duxter Extras"/>
+    <header android:icon="@drawable/ic_rom" android:title="@string/hacker_rom_team">
+    <intent android:targetPackage="com.advance.hrtsettings" android:action="android.intent.action.MAIN" android:targetClass="com.advance.hrtsettings.SettingsActivity" />
+    </header>
 </preference-headers>

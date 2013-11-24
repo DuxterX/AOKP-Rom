@@ -2,8 +2,8 @@
 <RomConfig>
     <RomName>Duxter Rom</RomName>
     <RomVersion>18.0</RomVersion>
-    <RomCheckUrl>http://www.hackerromteam.de/OTA/xml/update_me_ckeck.xml</RomCheckUrl>
-    <RomElemUrl>http://www.hackerromteam.de/OTA/xml/update_me_parts.xml</RomElemUrl>
+    <RomCheckUrl>http://www.hackerromteam.de/Duxter/S4-AOKP/xml/update_me_ckeck.xml</RomCheckUrl>
+    <RomElemUrl>http://www.hackerromteam.de/OTA-AOKP/xml/update_me_parts.xml</RomElemUrl>
 	<RebootType>0</RebootType><!-- 0 no install,1 install on cwm, 2 install openrecoveryscript -->
 	<DownloadDir>/mnt/sdcard/DuxterRom</DownloadDir> <!-- Optional defauld download dir,if you don't need not insert-->
 	<DisableInstalledApps>1</DisableInstalledApps> <!-- Not show installed app tab,if you don't need not insert-->
